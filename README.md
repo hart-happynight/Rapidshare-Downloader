@@ -206,4 +206,4 @@ RapidShare Downloader is provided as a full free version with all features unloc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-25 00:40:59 UTC
+**Last updated:** 2026-10-25 05:30:46 UTC
